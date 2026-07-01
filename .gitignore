@@ -37,6 +37,7 @@
 *.hex
 *.class 
 main_app
+bubble_sort
 
 # Debug files
 *.dSYM/
