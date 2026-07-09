@@ -39,6 +39,7 @@
 main_app
 bubble_sort
 auditlog
+all_algo
 
 # Debug files
 *.dSYM/
