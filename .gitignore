@@ -38,6 +38,7 @@
 *.class 
 main_app
 bubble_sort
+auditlog
 
 # Debug files
 *.dSYM/
