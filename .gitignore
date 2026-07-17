@@ -40,6 +40,12 @@ main_app
 bubble_sort
 auditlog
 all_algo
+tokenizer
+calculate_length
+string_reversal
+search_substring
+url_encoder
+fibonaci_series_sum
 
 # Debug files
 *.dSYM/
